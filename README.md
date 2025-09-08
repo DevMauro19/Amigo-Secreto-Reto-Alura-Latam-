@@ -5,3 +5,6 @@ Para poder probar el proyecto solo debes descargarlo o abrir el link que genera 
 Dentro del sistema puedes agregar nombres y sortearlos, el sistema incluye validaciones como que no se pueda repetir el nombre, el sistema no recibe nombre vacios y no puede hacer un sorteo si no hay personas
 
 Disfruten del juego ⚡🎮
+
+Link por si no lo encontraron ⚡
+https://devmauro19.github.io/Amigo-Secreto-Reto-Alura-Latam-/
